@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola 👋
 soy Ingrid Yulissa Medina Esquivel adquiri un bachiller basico y un tecnico en programacion de sotfware el cual obtuve conocimento sobre el lenguaje de programacion base de datos SQL Server y MySQL .Elabore con un equipo de trabajo una pagina wed evidenciando los sitios turisticos y gastronomicos urbanos de mi municipio. me encuentro en proceso de formacion en el  servicio nacional de aprendizaje (sena)  realizando el tecnologo analisis y desarrollo  de sotfware mi enfoque sera en desarrollar mis habilidades y competencia para enfrentarme en un mundo laboral y asi poder lograr y alcanzar mis objetivos
 
 ## Educacion 
